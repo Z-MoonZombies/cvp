@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="内部依赖项\declare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="内部依赖项\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="内部依赖项\pvzClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="内部依赖项\pvzStatic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="内部依赖项\cvp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="内部依赖项\dynamic_language.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="内部依赖项\pvzData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main\readme.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="内部依赖项\ui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="外部依赖项\ImageLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="内部依赖项\template.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="内部依赖项\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="内部依赖项\pvzClassImplement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="内部依赖项\pvzClassInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="内部依赖项\ui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

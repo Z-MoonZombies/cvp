@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cvp", "cvp.vcxproj", "{72546F64-73D6-43E7-887A-CB873361ABB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		插件|x86 = 插件|x86
+		加载器|x86 = 加载器|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72546F64-73D6-43E7-887A-CB873361ABB8}.插件|x86.ActiveCfg = 插件|Win32
+		{72546F64-73D6-43E7-887A-CB873361ABB8}.插件|x86.Build.0 = 插件|Win32
+		{72546F64-73D6-43E7-887A-CB873361ABB8}.加载器|x86.ActiveCfg = 加载器|Win32
+		{72546F64-73D6-43E7-887A-CB873361ABB8}.加载器|x86.Build.0 = 加载器|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DB0DFB0-004B-4723-951B-172971B95E30}
+	EndGlobalSection
+EndGlobal

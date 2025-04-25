@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+!/外部依赖项/ImageLib.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+/main/.vs/cvp/v16/Browse.VC.opendb
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3b110457fa9b5bf34c01efe8ea88ce2d92a0851b
+=======
+>>>>>>> 3b110457fa9b5bf34c01efe8ea88ce2d92a0851b
+/Release/
+/.vs/
+/插件/
+/加载器/
+/cvp.vcxproj.user
+/debug.log
